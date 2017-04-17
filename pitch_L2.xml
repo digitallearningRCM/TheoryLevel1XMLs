@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lessons banner="bannerL3a">
+    <lesson type="standard" narrationFile="L1_3">
+        <page file="L2_U1_3(1)" delay="0" />
+        <page file="L2_U1_3(2)" delay="2" />
+    </lesson>
+    <lesson type="standard" narrationFile="L1_4">
+        <page file="L2_U1_4(1)" delay="0" />
+        <page file="L2_U1_4(2)" delay="2" />
+    </lesson>
+</lessons>

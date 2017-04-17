@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<level>
+    <!--// for pitch tent -->
+    <unit id="2">
+        <lesson xmlFile="pitch_L1" />
+        <lesson xmlFile="pitch_L2" />
+    </unit>
+    <!--// for rhythm tent -->
+    <unit id="3">
+        <lesson xmlFile="pitch_L1" />
+        <lesson xmlFile="pitch_L2" />
+    </unit>
+</level>
