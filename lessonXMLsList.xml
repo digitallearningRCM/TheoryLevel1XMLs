@@ -6,6 +6,8 @@
     <unit id="2">
         <lesson xmlFile="pitch_L1" />
         <lesson xmlFile="pitch_L2" />
+        <lesson xmlFile="pitch_L3" />
+        <lesson xmlFile="pitch_L4" />
     </unit>
     <!--// for rhythm tent -->
     <unit id="3">
