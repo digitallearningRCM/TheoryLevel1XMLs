@@ -13,5 +13,6 @@
     <unit id="3">
         <lesson xmlFile="pitch_L1" />
         <lesson xmlFile="pitch_L2" />
+        <lesson xmlFile="pitch_L3" />
     </unit>
 </level>
