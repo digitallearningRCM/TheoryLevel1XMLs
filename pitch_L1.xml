@@ -222,7 +222,7 @@
   </lesson>
   <lesson type="MCQ" narrationFile="G_L1_U1_4">
     <page>
-      <question image="G_L1_U1_11(4)-Q">
+      <question image="G_L1_U1_11(5)-Q">
         <option image="G_L1_U1_11(1)-A1" answer="false" />
         <option image="G_L1_U1_11(1)-A2" answer="false" />
         <option image="G_L1_U1_11(1)-A3" answer="false" />
@@ -230,80 +230,5 @@
         <option image="G_L1_U1_11(1)-A5" answer="correct" />
       </question>
     </page>
-  </lesson>
-  <lesson type="interactive" narrationFile="L1_U1_12">
-    <page file="L1_U1_12" delay="0" />
-  </lesson>
-  <lesson type="interactive" narrationFile="L1_U1_12b">
-    <page file="L1_U1_12b" delay="0" />
-  </lesson>
-  <lesson type="standard" narrationFile="L1_U1_12c">
-    <page file="L1_U1_12c" delay="0" />
-  </lesson>
-  <lesson type="standard" narrationFile="L1_U1_13">
-    <page file="L1_U1_13(1)" delay="0"></page>
-    <page file="L1_U1_13(2)" delay="7"></page>
-    <page file="L1_U1_13(3)" delay="14"></page>
-    <page file="L1_U1_13(4)" delay="21" />
-  </lesson>
-  <lesson type="standard" narrationFile="L1_U1_14">
-    <page file="L1_U1_14(1)" delay="0"></page>
-    <page file="L1_U1_14(2)" delay="5" />
-  </lesson>
-  <lesson type="standard" narrationFile="L1_U1_17">
-    <page file="L1_U1_17(0)" delay="0"></page>
-    <page file="L1_U1_17(1)" delay="9" />
-  </lesson>
-  <lesson type="standard" narrationFile="L1_U1_18">
-    <page file="L1_U1_18(0)" delay="0"></page>
-    <page file="L1_U1_18(1)" delay="3" />
-  </lesson>
-  <lesson type="standard" narrationFile="L1_U1_19">
-    <page file="L1_U1_19(0)" delay="0"></page>
-    <page file="L1_U1_19(1)" delay="3"></page>
-    <page file="L1_U1_19(2)" delay="7" />
-  </lesson>
-  <lesson type="standard" narrationFile="L1_U1_20">
-    <page file="L1_U1_20(0)" delay="0"></page>
-    <page file="L1_U1_20(1)" delay="7"></page>
-  </lesson>
-  <lesson type="standard" narrationFile="L1_U1_21">
-    <page file="L1_U1_21(0)" delay="0"></page>
-    <page file="L1_U1_21(1)" delay="5"></page>
-  </lesson>
-  <lesson type="standard" narrationFile="L1_U1_22">
-    <page file="L1_U1_22(0)" delay="0"></page>
-    <page file="L1_U1_22(1)" delay="6"></page>
-    <page file="L1_U1_22(2)" delay="7"></page>
-  </lesson>
-  <lesson type="standard" narrationFile="L1_U1_23">
-    <page file="L1_U1_23(0)" delay="0"></page>
-  </lesson>
-  <lesson type="standard" narrationFile="L1_U1_28">
-    <page file="L1_U1_28(0)" delay="0"></page>
-  </lesson>
-  <!--L1_U1_31 Will need updating pending graphic revision (placeholder)-->
-  <lesson type="standard" narrationFile="L1_U1_31">
-    <page file="L1_U1_31(0)" delay="0"></page>
-    <page file="L1_U1_31(1)" delay="9"></page>
-    <page file="L1_U1_31(2)" delay="13"></page>
-    <page file="L1_U1_31(3)" delay="19"></page>
-    <page file="L1_U1_31(4)" delay="30"></page>
-    <page file="L1_U1_31(5)" delay="37"></page>
-    <page file="L1_U1_31(6)" delay="0"></page>
-  </lesson>
-  <lesson type="standard" narrationFile="L1_U1_32">
-    <page file="L1_U1_32(0)" delay="0"></page>
-    <page file="L1_U1_32(1)" delay="7"></page>
-    <page file="L1_U1_32(2)" delay="17"></page>
-  </lesson>
-  <lesson type="standard" narrationFile="L1_U1_33">
-    <page file="L1_U1_33(1)" delay="0"></page>
-    <page file="L1_U1_32(2)" delay="9"></page>
-  </lesson>
-  <lesson type="standard" narrationFile="L1_U1_36">
-    <page file="L1_U1_36(0)" delay="0"></page>
-    <page file="L1_U1_36(1)" delay="5"></page>
-    <page file="L1_U1_36(2)" delay="6"></page>
   </lesson>
 </lessons>
