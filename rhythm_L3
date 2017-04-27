@@ -1,0 +1,47 @@
+<lessons banner="bannerL3a">
+<lesson type="standard" narrationFile="L1_U2_6">
+	<page file="L1_U2_6(0)@2x" delay="0"/>
+	<page file="L1_U2_6(1)@2x" delay="0"/>
+	<page file="L1_U2_6(2)@2x" delay="0"/>
+</lesson>
+<lesson type="MCQ" narrationFile="#">
+    <page>
+		<question image="G_L1_U2_7(1)-Q@2x">
+			<option image="G_L1_U2_7(1)-A1@2x" answer="false"/>
+			<option image="G_L1_U2_7(1)-A2@2x" answer="false"/>
+			<option image="G_L1_U2_7(1)-A3@2x" answer="false"/>
+			<option image="G_L1_U2_7(1)-A4@2x" answer="false"/>
+		</question>
+	</page>
+</lesson>
+<lesson type="MCQ" narrationFile="#">
+    <page>
+		<question image="G_L1_U2_7(2)-Q@2x">
+			<option image="G_L1_U2_7(1)-A1@2x" answer="false"/>
+			<option image="G_L1_U2_7(1)-A2@2x" answer="false"/>
+			<option image="G_L1_U2_7(1)-A3@2x" answer="false"/>
+			<option image="G_L1_U2_7(1)-A4@2x" answer="false"/>
+		</question>
+	</page>
+</lesson>
+<lesson type="MCQ" narrationFile="#">
+    <page>
+		<question image="G_L1_U2_7(3)-Q@2x">
+			<option image="G_L1_U2_7(1)-A1@2x" answer="false"/>
+			<option image="G_L1_U2_7(1)-A2@2x" answer="false"/>
+			<option image="G_L1_U2_7(1)-A3@2x" answer="false"/>
+			<option image="G_L1_U2_7(1)-A4@2x" answer="false"/>
+		</question>
+	</page>
+</lesson>
+<lesson type="MCQ" narrationFile="#">
+    <page>
+		<question image="G_L1_U2_7(4)-Q@2x">
+			<option image="G_L1_U2_7(1)-A1@2x" answer="false"/>
+			<option image="G_L1_U2_7(1)-A2@2x" answer="false"/>
+			<option image="G_L1_U2_7(1)-A3@2x" answer="false"/>
+			<option image="G_L1_U2_7(1)-A4@2x" answer="false"/>
+		</question>
+	</page>
+</lesson>
+</lessons>
