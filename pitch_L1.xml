@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <lessons banner="bannerL3a">
   <lesson type="standard" narrationFile="L1_U1_1">
     <page file="L1_U1_1(0)" delay="0" />
@@ -232,10 +232,10 @@
     </page>
   </lesson>
   <lesson type="interactive" narrationFile="L1_U1_12">
-    <page id="L1_U1_12" delay="0" />
+    <page file="L1_U1_12" delay="0" />
   </lesson>
   <lesson type="interactive" narrationFile="L1_U1_12b">
-    <page id="L1_U1_12b" delay="0" />
+    <page file="L1_U1_12b" delay="0" />
   </lesson>
   <lesson type="standard" narrationFile="L1_U1_12c">
     <page file="L1_U1_12c" delay="0" />
