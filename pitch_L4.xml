@@ -1,0 +1,64 @@
+  <!--L1_U1_31 Will need updating pending graphic revision (placeholder)-->
+  <lesson type="standard" narrationFile="L1_U1_31">
+    <page file="L1_U1_31(0)" delay="0"></page>
+    <page file="L1_U1_31(1)" delay="9"></page>
+    <page file="L1_U1_31(2)" delay="13"></page>
+    <page file="L1_U1_31(3)" delay="19"></page>
+    <page file="L1_U1_31(4)" delay="30"></page>
+    <page file="L1_U1_31(5)" delay="37"></page>
+    <page file="L1_U1_31(6)" delay="0"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="L1_U1_32">
+    <page file="L1_U1_32(0)" delay="0"></page>
+    <page file="L1_U1_32(1)" delay="7"></page>
+    <page file="L1_U1_32(2)" delay="17"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="L1_U1_33">
+    <page file="L1_U1_33(1)" delay="0"></page>
+    <page file="L1_U1_32(2)" delay="9"></page>
+  </lesson>
+  <lesson type="MCQ" narrationFile="G_L1_U1_35">
+    <page>
+      <question image="G_L1_U1_35(1)-Q">
+        <option image="G_L1_U1_35(1)-A1" answer="correct" />
+        <option image="G_L1_U1_35(1)-A2" answer="false" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="MCQ" narrationFile="G_L1_U1_35">
+    <page>
+      <question image="G_L1_U1_35(2)-Q">
+        <option image="G_L1_U1_35(1)-A1" answer="correct" />
+        <option image="G_L1_U1_35(1)-A2" answer="false" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="MCQ" narrationFile="G_L1_U1_35">
+    <page>
+      <question image="G_L1_U1_35(3)-Q">
+        <option image="G_L1_U1_35(1)-A1" answer="correct" />
+        <option image="G_L1_U1_35(1)-A2" answer="false" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="MCQ" narrationFile="G_L1_U1_35">
+    <page>
+      <question image="G_L1_U1_35(4)-Q">
+        <option image="G_L1_U1_35(1)-A1" answer="false" />
+        <option image="G_L1_U1_35(1)-A2" answer="correct" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="MCQ" narrationFile="G_L1_U1_35">
+    <page>
+      <question image="G_L1_U1_35(5)-Q">
+        <option image="G_L1_U1_35(1)-A1" answer="correct" />
+        <option image="G_L1_U1_35(1)-A2" answer="false" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="standard" narrationFile="L1_U1_36">
+    <page file="L1_U1_36(0)" delay="0"></page>
+    <page file="L1_U1_36(1)" delay="5"></page>
+    <page file="L1_U1_36(2)" delay="6"></page>
+  </lesson>
