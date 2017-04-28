@@ -11,7 +11,8 @@
     </unit>
     <!--// for rhythm tent -->
     <unit id="3">
-        <lesson xmlFile="pitch_L1" />
-        <lesson xmlFile="pitch_L2" />
+        <lesson xmlFile="rhythm_L1" />
+        <lesson xmlFile="rhythm_L2" />
+        <lesson xmlFile="rhythm_L3" />
     </unit>
 </level>

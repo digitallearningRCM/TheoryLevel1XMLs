@@ -1,0 +1,61 @@
+<lessons banner="bannerL3a">
+<lesson type="standard" narrationFile="L1_U3_1">
+	<page file="L1_U3_1(0)@2x" delay="0"/>
+	<page file="L1_U3_1(1)@2x" delay="0"/>
+	<page file="L1_U3_1(2)@2x" delay="0"/>
+	<page file="L1_U3_1(3)@2x" delay="0"/>
+	<page file="L1_U3_1(4)@2x" delay="0"/>
+	<page file="L1_U3_1(5)@2x" delay="0"/>
+	<page file="L1_U3_1(6)@2x" delay="0"/>
+	<page file="L1_U3_1(7)@2x" delay="0"/>
+</lesson>
+
+<lesson type="standard" narrationFile="L1_U3_2">
+	<page file="L1_U3_2(0)@2x" delay="0"/>
+	<page file="L1_U3_2(1)@2x" delay="0"/>
+	<page file="L1_U3_2(2)@2x" delay="0"/>
+	<page file="L1_U3_2(3)@2x" delay="0"/>
+	<page file="L1_U3_2(4)@2x" delay="0"/>
+</lesson>
+<lesson type="MCQ" narrationFile="#">
+    <page>
+		<question image="G_L1_U3_3(1)-Q@2x">
+			<option image="G_L1_U3_3(1)-A1@2x" answer="false"/>
+			<option image="G_L1_U3_3(1)-A2@2x" answer="false"/>
+			<option image="G_L1_U3_3(1)-A3@2x" answer="false"/>
+		</question>
+	</page>
+</lesson>
+<lesson type="standard" narrationFile="L1_U3_4">
+	<page file="L1_U3_4(0)@2x" delay="0"/>
+	<page file="L1_U3_4(1)@2x" delay="0"/>
+	<page file="L1_U3_4(2)@2x" delay="0"/>
+	<page file="L1_U3_4(3)@2x" delay="0"/>
+</lesson>
+<lesson type="MCQ" narrationFile="#">
+    <page>
+		<question image="G_L1_U3_5(1)-Q@2x">
+			<option image="G_L1_U3_5(1)-A1@2x" answer="false"/>
+			<option image="G_L1_U3_5(1)-A2@2x" answer="false"/>
+			<option image="G_L1_U3_5(1)-A3@2x" answer="false"/>
+			<option image="G_L1_U3_5(1)-A4@2x" answer="false"/>
+			<option image="G_L1_U3_5(1)-A5@2x" answer="false"/>
+			<option image="G_L1_U3_5(1)-A6@2x" answer="false"/>
+			<option image="G_L1_U3_5(1)-A7@2x" answer="false"/>
+		</question>
+	</page>
+</lesson>
+<lesson type="MCQ" narrationFile="#">
+    <page>
+		<question image="G_L1_U3_6(1)-Q@2x">
+			<option image="G_L1_U3_6-12(1)-A1@2x" answer="false"/>
+			<option image="G_L1_U3_6-12(1)-A2@2x" answer="false"/>
+			<option image="G_L1_U3_6-12(1)-A3@2x" answer="false"/>
+			<option image="G_L1_U3_6-12(1)-A4@2x" answer="false"/>
+			<option image="G_L1_U3_6-12(1)-A5@2x" answer="false"/>
+			<option image="G_L1_U3_6-12(1)-A6@2x" answer="false"/>
+			<option image="G_L1_U3_6-12(1)-A7@2x" answer="false"/>
+		</question>
+	</page>
+</lesson>
+</lessons>
