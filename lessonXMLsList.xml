@@ -1,25 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-
+﻿<?xml version="1.0" encoding="utf-8"?>
 <level>
-    <!--// for pitch tent -->
-    <unit id="2">
-        <lesson xmlFile="pitch_L1" />
-        <lesson xmlFile="pitch_L2" />
-        <lesson xmlFile="pitch_L3" />
-        <lesson xmlFile="pitch_L4" />
-    </unit>
-    <!--// for rhythm tent -->
-    <unit id="3">
-        <lesson xmlFile="rhythm_L1" />
-        <lesson xmlFile="rhythm_L2" />
-        <lesson xmlFile="rhythm_L3" />
-    </unit>
-    <!--// for scales tent -->
-    <unit id="2">
-        <lesson xmlFile="scales_L1" />
-        <lesson xmlFile="scales_L2" />
-        <lesson xmlFile="scales_L3" />
-        <lesson xmlFile="scales_L4" />
-    </unit>
+  <!--// for pitch tent -->
+  <unit id="2">
+    <lesson xmlFile="pitch_L1" />
+    <lesson xmlFile="pitch_L2" />
+    <lesson xmlFile="pitch_L3" />
+    <lesson xmlFile="pitch_L4" />
+  </unit>
+  <!--// for rhythm tent -->
+  <unit id="3">
+    <lesson xmlFile="rhythm_L1" />
+    <lesson xmlFile="rhythm_L2" />
+    <lesson xmlFile="rhythm_L3" />
+  </unit>
+  <!--// for scales tent -->
+  <unit id="4">
+    <lesson xmlFile="scales_L1" />
+    <lesson xmlFile="scales_L2" />
+    <lesson xmlFile="scales_L3" />
+    <lesson xmlFile="scales_L4" />
+  </unit>
+  <!--// for intervals tent-->
+  <unit id="5">
+    <lesson xmlFile="intervals_L1" />
+  </unit>
 </level>
