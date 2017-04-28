@@ -1,50 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <lessons banner="bannerL3a">
   <lesson type="standard" narrationFile="L1_U3_13">
-    <!--L1_U3_13: Needs recording still and append recording of music-->
-    <page file="L1_U3_13(0)@2x" delay="0" />
-    <page file="L1_U3_13(1)@2x" delay="0" />
-    <page file="L1_U3_13(2)@2x" delay="0" />
+    <page file="L1_U3_13(0)" delay="0" />
+    <page file="L1_U3_13(1)" delay="7" />
+    <page file="L1_U3_13(2)" delay="16" />
   </lesson>
   <lesson type="standard" narrationFile="L1_U3_14">
-    <page file="L1_U3_14(0)@2x" delay="0" />
-    <page file="L1_U3_14(1)@2x" delay="7" />
-    <page file="L1_U3_14(2)@2x" delay="15" />
+    <page file="L1_U3_14(0)" delay="0" />
+    <page file="L1_U3_14(1)" delay="7" />
+    <page file="L1_U3_14(2)" delay="15" />
   </lesson>
   <lesson type="MCQ" narrationFile="G_L1_U3_15">
     <page>
-      <question image="G_L1_U3_15(1)-Q@2x">
-        <option image="G_L1_U3_15(1)-A1@2x" answer="false" />
-        <option image="G_L1_U3_15(1)-A2@2x" answer="false" />
-        <option image="G_L1_U3_15(1)-A3@2x" answer="correct" />
+      <question image="G_L1_U3_15(1)-Q">
+        <option image="G_L1_U3_15(1)-A1" answer="false" />
+        <option image="G_L1_U3_15(1)-A2" answer="false" />
+        <option image="G_L1_U3_15(1)-A3" answer="correct" />
       </question>
     </page>
   </lesson>
   <lesson type="MCQ" narrationFile="G_L1_U3_16">
     <page>
-      <question image="G_L1_U3_16(1)-Q@2x">
-        <option image="G_L1_U3_16-18(1)-A1@2x" answer="false" />
-        <option image="G_L1_U3_16-18(1)-A2@2x" answer="correct" />
-        <option image="G_L1_U3_16-18(1)-A3@2x" answer="false" />
+      <question image="G_L1_U3_16(1)-Q">
+        <option image="G_L1_U3_16-18(1)-A1" answer="false" />
+        <option image="G_L1_U3_16-18(1)-A2" answer="correct" />
+        <option image="G_L1_U3_16-18(1)-A3" answer="false" />
       </question>
     </page>
   </lesson>
   <lesson type="MCQ" narrationFile="G_L1_U3_17">
     <page>
-      <question image="G_L1_U3_17(1)-Q@2x">
-        <option image="G_L1_U3_16-18(1)-A1@2x" answer="correct" />
-        <option image="G_L1_U3_16-18(1)-A2@2x" answer="false" />
-        <option image="G_L1_U3_16-18(1)-A3@2x" answer="false" />
+      <question image="G_L1_U3_17(1)-Q">
+        <option image="G_L1_U3_16-18(1)-A1" answer="correct" />
+        <option image="G_L1_U3_16-18(1)-A2" answer="false" />
+        <option image="G_L1_U3_16-18(1)-A3" answer="false" />
       </question>
     </page>
   </lesson>
   <lesson type="MCQ" narrationFile="#">
     <!--Needs audio for G_L1_U3_18-->
     <page>
-      <question image="G_L1_U3_18(1)-Q@2x">
-        <option image="G_L1_U3_16-18(1)-A1@2x" answer="false" />
-        <option image="G_L1_U3_16-18(1)-A2@2x" answer="false" />
-        <option image="G_L1_U3_16-18(1)-A3@2x" answer="correct" />
+      <question image="G_L1_U3_18(1)-Q">
+        <option image="G_L1_U3_16-18(1)-A1" answer="false" />
+        <option image="G_L1_U3_16-18(1)-A2" answer="false" />
+        <option image="G_L1_U3_16-18(1)-A3" answer="correct" />
       </question>
     </page>
   </lesson>
