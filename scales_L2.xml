@@ -9,6 +9,7 @@
 	<page file="L1_U3_7(6)@2x" delay="0"/>
 	<page file="L1_U3_7(7)@2x" delay="0"/>
 </lesson>
+<lesson type="MCQ" narrationFile="#">
     <page>
 		<question image="G_L1_U3_8(1)-Q@2x">
 			<option image="G_L1_U3_6-12(1)-A1@2x" answer="false"/>
