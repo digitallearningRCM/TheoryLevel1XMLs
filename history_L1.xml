@@ -1,0 +1,54 @@
+<lessons banner="bannerL3a">
+<lesson type="standard" narrationFile="L1_U6_1">
+	<page file="L1_U6_1@2x" delay="0"/>
+</lesson>
+
+<lesson type="standard" narrationFile="L1_U6_2">
+	<page file="L1_U6_2@2x" delay="0"/>
+</lesson>
+
+<lesson type="standard" narrationFile="L1_U6_3">
+	<page file="L1_U6_3(0)@2x" delay="0"/>
+	<page file="L1_U6_3(1)@2x" delay="0"/>
+	<page file="L1_U6_3(2)@2x" delay="0"/>
+	<page file="L1_U6_3(3)@2x" delay="0"/>
+</lesson>
+
+<lesson type="standard" narrationFile="L1_U6_4">
+	<page file="L1_U6_4@2x" delay="0"/>
+</lesson>
+
+<lesson type="standard" narrationFile="L1_U6_5">
+	<page file="L1_U6_5@2x" delay="0"/>
+</lesson>
+
+<lesson type="standard" narrationFile="L1_U6_6">
+	<page file="L1_U6_6@2x" delay="0"/>
+</lesson>
+
+<lesson type="standard" narrationFile="L1_U6_7">
+	<page file="L1_U6_7@2x" delay="0"/>
+</lesson>
+
+<lesson type="standard" narrationFile="L1_U6_8">
+	<page file="L1_U6_8(0)@2x" delay="0"/>
+	<page file="L1_U6_8(1)@2x" delay="0"/>
+	<page file="L1_U6_8(2)@2x" delay="0"/>
+	<page file="L1_U6_8(3)@2x" delay="0"/>
+</lesson>
+
+<lesson type="standard" narrationFile="L1_U6_9">
+	<page file="L1_U6_9@2x" delay="0"/>
+</lesson>
+
+<lesson type="standard" narrationFile="L1_U6_10">
+	<page file="L1_U6_10(0)@2x" delay="0"/>
+	<page file="L1_U6_10(1)@2x" delay="0"/>
+	<page file="L1_U6_10(2)@2x" delay="0"/>
+	<page file="L1_U6_10(3)@2x" delay="0"/>
+	<page file="L1_U6_10(4)@2x" delay="0"/>
+	<page file="L1_U6_10(5)@2x" delay="0"/>
+	<page file="L1_U6_10(6)@2x" delay="0"/>
+	<page file="L1_U6_10(7)@2x" delay="0"/>
+</lesson>
+</lessons>
