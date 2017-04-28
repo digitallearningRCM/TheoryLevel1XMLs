@@ -1,0 +1,48 @@
+<lessons banner="bannerL3a">
+<lesson type="standard" narrationFile="L1_U3_13">
+	<page file="L1_U3_13(0)@2x" delay="0"/>
+	<page file="L1_U3_13(1)@2x" delay="0"/>
+	<page file="L1_U3_13(2)@2x" delay="0"/>
+</lesson>
+<lesson type="standard" narrationFile="L1_U3_14">
+	<page file="L1_U3_14(0)@2x" delay="0"/>
+	<page file="L1_U3_14(1)@2x" delay="0"/>
+	<page file="L1_U3_14(2)@2x" delay="0"/>
+</lesson>
+<lesson type="MCQ" narrationFile="#">
+    <page>
+		<question image="G_L1_U3_15(1)-Q@2x">
+			<option image="G_L1_U3_15(1)-A1@2x" answer="false"/>
+			<option image="G_L1_U3_15(1)-A2@2x" answer="false"/>
+			<option image="G_L1_U3_15(1)-A3@2x" answer="false"/>
+		</question>
+	</page>
+</lesson>
+<lesson type="MCQ" narrationFile="#">
+    <page>
+		<question image="G_L1_U3_16(1)-Q@2x">
+			<option image="G_L1_U3_16-18(1)-A1@2x" answer="false"/>
+			<option image="G_L1_U3_16-18(1)-A2@2x" answer="false"/>
+			<option image="G_L1_U3_16-18(1)-A3@2x" answer="false"/>
+		</question>
+	</page>
+</lesson>
+<lesson type="MCQ" narrationFile="#">
+    <page>
+		<question image="G_L1_U3_17(1)-Q@2x">
+			<option image="G_L1_U3_16-18(1)-A1@2x" answer="false"/>
+			<option image="G_L1_U3_16-18(1)-A2@2x" answer="false"/>
+			<option image="G_L1_U3_16-18(1)-A3@2x" answer="false"/>
+		</question>
+	</page>
+</lesson>
+<lesson type="MCQ" narrationFile="#">
+    <page>
+		<question image="G_L1_U3_18(1)-Q@2x">
+			<option image="G_L1_U3_16-18(1)-A1@2x" answer="false"/>
+			<option image="G_L1_U3_16-18(1)-A2@2x" answer="false"/>
+			<option image="G_L1_U3_16-18(1)-A3@2x" answer="false"/>
+		</question>
+	</page>
+</lesson>
+</lessons>
