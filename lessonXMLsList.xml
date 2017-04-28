@@ -15,4 +15,11 @@
         <lesson xmlFile="rhythm_L2" />
         <lesson xmlFile="rhythm_L3" />
     </unit>
+    <!--// for scales tent -->
+    <unit id="2">
+        <lesson xmlFile="scales_L1" />
+        <lesson xmlFile="scales_L2" />
+        <lesson xmlFile="scales_L3" />
+        <lesson xmlFile="scales_L4" />
+    </unit>
 </level>
