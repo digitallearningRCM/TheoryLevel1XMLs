@@ -32,8 +32,12 @@
   <unit id="7">
     <lesson xmlFile="melody_L1" />
   </unit>
-  <!--// for history tent-->
+  <!--// for terms tent-->
   <unit id="8">
+    <lesson xmlFile="terms_L1" />
+  </unit>
+  <!--// for history tent-->
+  <unit id="9">
     <lesson xmlFile="history_L1" />
     <lesson xmlFile="history_L2" />
   </unit>
