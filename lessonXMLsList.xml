@@ -24,4 +24,13 @@
   <unit id="5">
     <lesson xmlFile="intervals_L1" />
   </unit>
+  <!--// for chords tent-->
+  <unit id="6">
+    <lesson xmlFile="chords_L1" />
+  </unit>
+  <!--// for history tent-->
+  <unit id="7">
+    <lesson xmlFile="history_L1" />
+    <lesson xmlFile="history_L2" />
+  </unit>
 </level>
