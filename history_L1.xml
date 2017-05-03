@@ -1,54 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <lessons banner="bannerL3a">
-<lesson type="standard" narrationFile="L1_U6_1">
-	<page file="L1_U6_1@2x" delay="0"/>
-</lesson>
-
-<lesson type="standard" narrationFile="L1_U6_2">
-	<page file="L1_U6_2@2x" delay="0"/>
-</lesson>
-
-<lesson type="standard" narrationFile="L1_U6_3">
-	<page file="L1_U6_3(0)@2x" delay="0"/>
-	<page file="L1_U6_3(1)@2x" delay="0"/>
-	<page file="L1_U6_3(2)@2x" delay="0"/>
-	<page file="L1_U6_3(3)@2x" delay="0"/>
-</lesson>
-
-<lesson type="standard" narrationFile="L1_U6_4">
-	<page file="L1_U6_4@2x" delay="0"/>
-</lesson>
-
-<lesson type="standard" narrationFile="L1_U6_5">
-	<page file="L1_U6_5@2x" delay="0"/>
-</lesson>
-
-<lesson type="standard" narrationFile="L1_U6_6">
-	<page file="L1_U6_6@2x" delay="0"/>
-</lesson>
-
-<lesson type="standard" narrationFile="L1_U6_7">
-	<page file="L1_U6_7@2x" delay="0"/>
-</lesson>
-
-<lesson type="standard" narrationFile="L1_U6_8">
-	<page file="L1_U6_8(0)@2x" delay="0"/>
-	<page file="L1_U6_8(1)@2x" delay="0"/>
-	<page file="L1_U6_8(2)@2x" delay="0"/>
-	<page file="L1_U6_8(3)@2x" delay="0"/>
-</lesson>
-
-<lesson type="standard" narrationFile="L1_U6_9">
-	<page file="L1_U6_9@2x" delay="0"/>
-</lesson>
-
-<lesson type="standard" narrationFile="L1_U6_10">
-	<page file="L1_U6_10(0)@2x" delay="0"/>
-	<page file="L1_U6_10(1)@2x" delay="0"/>
-	<page file="L1_U6_10(2)@2x" delay="0"/>
-	<page file="L1_U6_10(3)@2x" delay="0"/>
-	<page file="L1_U6_10(4)@2x" delay="0"/>
-	<page file="L1_U6_10(5)@2x" delay="0"/>
-	<page file="L1_U6_10(6)@2x" delay="0"/>
-	<page file="L1_U6_10(7)@2x" delay="0"/>
-</lesson>
+  <lesson type="standard" narrationFile="L1_U6_1">
+    <page file="L1_U6_1" delay="0" />
+  </lesson>
+  <lesson type="standard" narrationFile="L1_U6_2">
+    <page file="L1_U6_2" delay="0" />
+  </lesson>
+  <lesson type="standard" narrationFile="L1_U6_3">
+    <page file="L1_U6_3(0)" delay="0" />
+    <page file="L1_U6_3(1)" delay="2" />
+    <page file="L1_U6_3(2)" delay="3" />
+    <page file="L1_U6_3(3)" delay="4" />
+  </lesson>
+  <lesson type="standard" narrationFile="L1_U6_4">
+    <page file="L1_U6_4" delay="0" />
+  </lesson>
+  <lesson type="standard" narrationFile="L1_U6_5">
+    <page file="L1_U6_5" delay="0" />
+  </lesson>
+  <lesson type="standard" narrationFile="L1_U6_6">
+    <page file="L1_U6_6" delay="0" />
+  </lesson>
+  <lesson type="standard" narrationFile="L1_U6_7">
+    <page file="L1_U6_7" delay="0" />
+  </lesson>
+  <lesson type="standard" narrationFile="L1_U6_8">
+    <page file="L1_U6_8(0)" delay="0" />
+    <page file="L1_U6_8(1)" delay="3" />
+    <page file="L1_U6_8(2)" delay="5" />
+    <page file="L1_U6_8(3)" delay="11" />
+  </lesson>
+  <lesson type="standard" narrationFile="L1_U6_9">
+    <page file="L1_U6_9" delay="0" />
+  </lesson>
+  <lesson type="standard" narrationFile="L1_U6_10">
+    <page file="L1_U6_10(0)" delay="0" />
+    <page file="L1_U6_10(1)" delay="4" />
+    <page file="L1_U6_10(2)" delay="7" />
+    <page file="L1_U6_10(3)" delay="10" />
+    <page file="L1_U6_10(4)" delay="12" />
+    <page file="L1_U6_10(5)" delay="17" />
+    <page file="L1_U6_10(6)" delay="20" />
+    <page file="L1_U6_10(7)" delay="22" />
+  </lesson>
 </lessons>
