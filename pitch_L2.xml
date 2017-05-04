@@ -19,8 +19,4 @@
     <page file="L1_U1_14(1)" delay="0"></page>
     <page file="L1_U1_14(2)" delay="5"></page>
   </lesson>
-  <lesson type="standard" narrationFile="L1_U1_14">
-    <page file="L1_U1_14(1)" delay="0"></page>
-    <page file="L1_U1_14(2)" delay="5" />
-  </lesson>
 </lessons>

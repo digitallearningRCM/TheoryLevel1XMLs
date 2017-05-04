@@ -10,7 +10,7 @@
     <page file="L1_U3_10(6)" delay="29" />
     <page file="L1_U3_10(7)" delay="31" />
   </lesson>
-  <lesson type="MCQ" narrationFile="G_L1_U3_9">
+  <lesson type="MCQ" narrationFile="G_L1_U3_11">
     <page>
       <question image="G_L1_U3_11(1)-Q">
         <option image="G_L1_U3_6-12(1)-A1" answer="false" />
