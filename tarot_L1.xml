@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cards>
+    <card graphic="accent" definition="a stressed note" />
+    <card graphic="crescendo" definition="becoming louder" />
+    <card graphic="decrescendo"  definition="becoming softer" />
+    <card graphic="forte" definition="loud" />
+    <card graphic="mezzoforte" definition="moderately loud" />
+    <card graphic="mezzopiano" definition="moderately soft" />
+    <card graphic="piano" definition="soft" />
+    <card graphic="slur" definition="play the notes smoothly (legato)" />
+    <card graphic="staccato" definition="detached" />
+    <card text="legato" definition="smooth" />
+</cards>
