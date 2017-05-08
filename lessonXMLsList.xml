@@ -14,11 +14,11 @@
     <lesson xmlFile="rhythm_L3" />
   </unit>
   <!--// for intervals tent-->
-  <unit id="4">
+  <unit id="5">
     <lesson xmlFile="intervals_L1" />
   </unit>
   <!--// for scales tent -->
-  <unit id="5">
+  <unit id="4">
     <lesson xmlFile="scales_L1" />
     <lesson xmlFile="scales_L2" />
     <lesson xmlFile="scales_L3" />
@@ -29,7 +29,7 @@
     <lesson xmlFile="chords_L1"></lesson>
   </unit>
   <!--// for melody tent-->
-  <unit id="7">
+  <unit id="9">
     <lesson xmlFile="melody_L1" />
   </unit>
   <!--// for terms tent-->
@@ -37,7 +37,7 @@
     <lesson xmlFile="terms_L1" />
   </unit>
   <!--// for history tent-->
-  <unit id="9">
+  <unit id="7">
     <lesson xmlFile="history_L1" />
     <lesson xmlFile="history_L2" />
   </unit>
