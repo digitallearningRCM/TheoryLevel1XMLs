@@ -21,8 +21,4 @@
   <card graphic="L1_U7_10-11(3)" definition="soft"></card>
   <card graphic="L1_U7_10-11(4)" definition="moderatley soft"></card>
   <card graphic="L1_U7_3(2)" definition="speed at which music is performed"></card>
-  <card text="legato" definition="smooth"></card>
-  <card text="crescendo" definition="becoming louder"></card>
-  <card text="decrescendo" definition="becoming softer"></card>
-  <card text="diminuendo" definition="becoming softer"></card>
 </cards>
