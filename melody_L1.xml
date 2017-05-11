@@ -46,9 +46,6 @@
   <lesson type="standard" narrationFile="L1_U8_9">
     <page file="L1_U8_9(1)" delay="0" />
   </lesson>
-  <lesson type="standard" narrationFile="L1_U8_10">
-    <page file="L1_U8_10(1)" delay="0" />
-  </lesson>
   <lesson type="MCQ" narrationFile="G_L1_U8_10">
     <page>
       <question image="G_L1_U8_10(1)-Q">
