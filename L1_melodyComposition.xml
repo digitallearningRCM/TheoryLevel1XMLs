@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question staff1="L1_U8_Q1_staff1" musicFile="song1">
+        <option image="L1_U8_Q1_0" location="0" preset="yes"/>
+        <option image="L1_U8_Q1_1" location="1" />
+        <option image="L1_U8_Q1_2" location="2" />
+        <option image="L1_U8_Q1_3" location="3" />
+        <option image="L1_U8_Q1_4" location="4"/>
+        <option image="L1_U8_Q1_5" location="5" />
+        <option image="L1_U8_Q1_6" location="6" />
+        <option image="L1_U8_Q1_7" location="7" />
+        <option image="L1_U8_Q1_8" location="8" />
+    </question>
+    <question staff1="L1_U8_Q1_staff1" staff2="L1_U8_Q1_staff1" musicFile="song1">
+        <option image="L1_U8_Q1_0" location="0" preset="yes"/>
+        <option image="L1_U8_Q1_1" location="1" />
+        <option image="L1_U8_Q1_2" location="2" />
+        <option image="L1_U8_Q1_3" location="3" />
+        <option image="L1_U8_Q1_0" location="4" preset="yes"/>
+        <option image="L1_U8_Q1_5" location="5" />
+        <option image="L1_U8_Q1_6" location="6" />
+        <option image="L1_U8_Q1_7" location="7" />
+        <option image="L1_U8_Q1_8" location="8" />
+    </question>
+</questions>
+
