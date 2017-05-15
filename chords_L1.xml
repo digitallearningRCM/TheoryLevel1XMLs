@@ -18,9 +18,11 @@
   </lesson>
   <lesson type="standard" narrationFile="L1_U5_6">
     <page file="L1_U5_6(0)" delay="0" />
+    <page file="L1_U5_6(1)" delay="7" />
   </lesson>
   <lesson type="standard" narrationFile="L1_U5_7">
     <page file="L1_U5_7(0)" delay="0" />
+    <page file="L1_U5_7(1)" delay="5" />
   </lesson>
   <lesson type="standard" narrationFile="L1_U5_8">
     <page file="L1_U5_8(0)" delay="0" />
