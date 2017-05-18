@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <cards>
-  <card graphic="L1_U7_2(1)" definition="fast" />
-  <card graphic="L1_U7_2(2)" definition="moderately slow; at a walking pace" />
-  <card graphic="L1_U7_2(3)" definition="slow"></card>
-  <card graphic="L1_U7_2(4)" definition="at a moderate tempo" />
-  <card graphic="L1_U7_2(5)" definition="smooth"></card>
-  <card graphic="L1_U7_3(1)" definition="slowing down gradually" />
-  <card graphic="L1_U7_3(3)" definition="return to the original tempo" />
-  <card graphic="L1_U7_4-5(1)" definition="indicates the end of a piece" />
-  <card graphic="L1_U7_4-5(2)" definition="a symbol for 4/4"></card>
-  <card graphic="L1_U7_4-5(3)" definition="hold the note or rest longer than its written value"></card>
-  <card graphic="L1_U7_6-7(1)" definition="a stressed note"></card>
-  <card graphic="L1_U7_6-7(2)" definition="detached"></card>
-  <card graphic="L1_U7_6-7(3)" definition="hold for the combined value of the tied notes"></card>
-  <card graphic="L1_U7_6-7(4)" definition="play the notes smoothly"></card>
-  <card graphic="L1_U7_8-9(1)" definition="becoming louder"></card>
-  <card graphic="L1_U7_8-9(2)" definition="becoming softer"></card>
-  <card graphic="L1_U7_10-11(1)" definition="loud"></card>
-  <card graphic="L1_U7_10-11(2)" definition="moderatly loud"></card>
-  <card graphic="L1_U7_10-11(3)" definition="soft"></card>
-  <card graphic="L1_U7_10-11(4)" definition="moderatley soft"></card>
-  <card graphic="L1_U7_3(2)" definition="speed at which music is performed"></card>
+  <card graphic="T1_U7_2(1)" definition="fast" />
+  <card graphic="T1_U7_2(2)" definition="moderately slow; at a walking pace" />
+  <card graphic="T1_U7_2(3)" definition="slow"></card>
+  <card graphic="T1_U7_2(4)" definition="at a moderate tempo" />
+  <card graphic="T1_U7_2(5)" definition="smooth"></card>
+  <card graphic="T1_U7_3(1)" definition="slowing down gradually" />
+  <card graphic="T1_U7_3(3)" definition="return to the original tempo" />
+  <card graphic="T1_U7_4-5(1)" definition="indicates the end of a piece" />
+  <card graphic="T1_U7_4-5(2)" definition="a symbol for 4/4"></card>
+  <card graphic="T1_U7_4-5(3)" definition="hold the note or rest longer than its written value"></card>
+  <card graphic="T1_U7_6-7(1)" definition="a stressed note"></card>
+  <card graphic="T1_U7_6-7(2)" definition="detached"></card>
+  <card graphic="T1_U7_6-7(3)" definition="hold for the combined value of the tied notes"></card>
+  <card graphic="T1_U7_6-7(4)" definition="play the notes smoothly"></card>
+  <card graphic="T1_U7_8-9(1)" definition="becoming louder"></card>
+  <card graphic="T1_U7_8-9(2)" definition="becoming softer"></card>
+  <card graphic="T1_U7_10-11(1)" definition="loud"></card>
+  <card graphic="T1_U7_10-11(2)" definition="moderatly loud"></card>
+  <card graphic="T1_U7_10-11(3)" definition="soft"></card>
+  <card graphic="T1_U7_10-11(4)" definition="moderatley soft"></card>
+  <card graphic="T1_U7_3(2)" definition="speed at which music is performed"></card>
 </cards>
