@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lessons banner="L2_U4_B1">
+  <lesson type="standard" narrationFile="L2_U4_1">
+    <page file="L2_U4_1(0)" delay="0" />
+  </lesson>
+  <lesson type="standard" narrationFile="L2_U4_2">
+    <page file="L2_U4_2(0)" delay="0" />
+  </lesson>
+  <lesson type="standard" narrationFile="L2_U4_3">
+    <page file="L2_U4_3(0)" delay="0" />
+  </lesson>
+  <lesson type="standard" narrationFile="L2_U4_4">
+    <page file="L2_U4_4(0)" delay="0" />
+  </lesson>
+  <lesson type="MCQ" narrationFile="G_L2_U4_5">
+    <page>
+      <question image="G_L2_U4_5(1)-Q">
+        <option image="G_L2_U4_5(1)-A1" answer="false" />
+        <option image="G_L2_U4_5(1)-A2" answer="false" />
+        <option image="G_L2_U4_5(1)-A3" answer="correct" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="MCQ" narrationFile="G_L2_U4_5">
+    <page>
+      <question image="G_L2_U4_5(2)-Q">
+        <option image="G_L2_U4_5(1)-A1" answer="false" />
+        <option image="G_L2_U4_5(1)-A2" answer="correct" />
+        <option image="G_L2_U4_5(1)-A3" answer="false" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="MCQ" narrationFile="G_L2_U4_5">
+    <page>
+      <question image="G_L2_U4_5(3)-Q">
+        <option image="G_L2_U4_5(1)-A1" answer="correct" />
+        <option image="G_L2_U4_5(1)-A2" answer="false" />
+        <option image="G_L2_U4_5(1)-A3" answer="false" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="MCQ" narrationFile="G_L2_U4_5">
+    <page>
+      <question image="G_L2_U4_5(4)-Q">
+        <option image="G_L2_U4_5(1)-A1" answer="false" />
+        <option image="G_L2_U4_5(1)-A2" answer="false" />
+        <option image="G_L2_U4_5(1)-A3" answer="correct" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="MCQ" narrationFile="G_L2_U4_5">
+    <page>
+      <question image="G_L2_U4_5(5)-Q">
+        <option image="G_L2_U4_5(1)-A1" answer="false" />
+        <option image="G_L2_U4_5(1)-A2" answer="false" />
+        <option image="G_L2_U4_5(1)-A3" answer="correct" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="MCQ" narrationFile="G_L2_U4_5">
+    <page>
+      <question image="G_L2_U4_5(6)-Q">
+        <option image="G_L2_U4_5(1)-A1" answer="false" />
+        <option image="G_L2_U4_5(1)-A2" answer="false" />
+        <option image="G_L2_U4_5(1)-A3" answer="correct" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="MCQ" narrationFile="G_L2_U4_5">
+    <page>
+      <question image="G_L2_U4_5(7)-Q">
+        <option image="G_L2_U4_5(1)-A1" answer="false" />
+        <option image="G_L2_U4_5(1)-A2" answer="correct" />
+        <option image="G_L2_U4_5(1)-A3" answer="false" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="MCQ" narrationFile="G_L2_U4_5">
+    <page>
+      <question image="G_L2_U4_5(8)-Q">
+        <option image="G_L2_U4_5(1)-A1" answer="correct" />
+        <option image="G_L2_U4_5(1)-A2" answer="false" />
+        <option image="G_L2_U4_5(1)-A3" answer="false" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="standard" narrationFile="L2_U4_6">
+    <page file="L2_U4_6(0)" delay="0" />
+    <page file="L2_U4_6(1)" delay="2" />
+    <page file="L2_U4_6(2)" delay="3" />
+    <page file="L2_U4_6(3)" delay="4" />
+    <page file="L2_U4_6(4)" delay="5" />
+  </lesson>
+  <lesson type="standard" narrationFile="L2_U4_7">
+    <page file="L2_U4_7(0)" delay="0" />
+  </lesson>
+  <lesson type="standard" narrationFile="L2_U4_8a">
+    <!--Narration needs retake-->
+    <page file="L2_U4_8a(0)" delay="0" />
+  </lesson>
+  <lesson type="standard" narrationFile="L2_U4_8b">
+    <!--narration needs retake-->
+    <page file="L2_U4_8b(0)" delay="0" />
+  </lesson>
+  <lesson type="standard" narrationFile="L2_U4_9">
+    <page file="L2_U4_9(0)" delay="0" />
+  </lesson>
+  <lesson type="standard" narrationFile="L2_U4_10">
+    <page file="L2_U4_10(0)" delay="0" />
+  </lesson>
+  <lesson type="MCQ" narrationFile="G_L2_U4_11">
+    <page>
+      <question image="G_L2_U4_11(1)-Q">
+        <option image="G_L2_U4_11(1)-A1" answer="false" />
+        <option image="G_L2_U4_11(1)-A2" answer="correct" />
+        <option image="G_L2_U4_11(1)-A3" answer="false" />
+        <option image="G_L2_U4_11(1)-A4" answer="false" />
+        <option image="G_L2_U4_11(1)-A5" answer="false" />
+        <option image="G_L2_U4_11(1)-A6" answer="false" />
+        <option image="G_L2_U4_11(1)-A7" answer="false" />
+        <option image="G_L2_U4_11(1)-A8" answer="false" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="MCQ" narrationFile="G_L2_U4_11">
+    <page>
+      <question image="G_L2_U4_11(2)-Q">
+        <option image="G_L2_U4_11(1)-A1" answer="false" />
+        <option image="G_L2_U4_11(1)-A2" answer="false" />
+        <option image="G_L2_U4_11(1)-A3" answer="correct" />
+        <option image="G_L2_U4_11(1)-A4" answer="false" />
+        <option image="G_L2_U4_11(1)-A5" answer="false" />
+        <option image="G_L2_U4_11(1)-A6" answer="false" />
+        <option image="G_L2_U4_11(1)-A7" answer="false" />
+        <option image="G_L2_U4_11(1)-A8" answer="false" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="MCQ" narrationFile="G_L2_U4_11">
+    <page>
+      <question image="G_L2_U4_11(3)-Q">
+        <option image="G_L2_U4_11(1)-A1" answer="false" />
+        <option image="G_L2_U4_11(1)-A2" answer="false" />
+        <option image="G_L2_U4_11(1)-A3" answer="false" />
+        <option image="G_L2_U4_11(1)-A4" answer="false" />
+        <option image="G_L2_U4_11(1)-A5" answer="false" />
+        <option image="G_L2_U4_11(1)-A6" answer="false" />
+        <option image="G_L2_U4_11(1)-A7" answer="correct" />
+        <option image="G_L2_U4_11(1)-A8" answer="false" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="MCQ" narrationFile="G_L2_U4_11">
+    <page>
+      <question image="G_L2_U4_11(4)-Q">
+        <option image="G_L2_U4_11(1)-A1" answer="false" />
+        <option image="G_L2_U4_11(1)-A2" answer="false" />
+        <option image="G_L2_U4_11(1)-A3" answer="false" />
+        <option image="G_L2_U4_11(1)-A4" answer="false" />
+        <option image="G_L2_U4_11(1)-A5" answer="false" />
+        <option image="G_L2_U4_11(1)-A6" answer="false" />
+        <option image="G_L2_U4_11(1)-A7" answer="false" />
+        <option image="G_L2_U4_11(1)-A8" answer="correct" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="MCQ" narrationFile="G_L2_U4_11">
+    <page>
+      <question image="G_L2_U4_11(5)-Q">
+        <option image="G_L2_U4_11(1)-A1" answer="correct" />
+        <option image="G_L2_U4_11(1)-A2" answer="false" />
+        <option image="G_L2_U4_11(1)-A3" answer="false" />
+        <option image="G_L2_U4_11(1)-A4" answer="false" />
+        <option image="G_L2_U4_11(1)-A5" answer="false" />
+        <option image="G_L2_U4_11(1)-A6" answer="false" />
+        <option image="G_L2_U4_11(1)-A7" answer="false" />
+        <option image="G_L2_U4_11(1)-A8" answer="false" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="MCQ" narrationFile="G_L2_U4_11">
+    <page>
+      <question image="G_L2_U4_11(6)-Q">
+        <option image="G_L2_U4_11(1)-A1" answer="false" />
+        <option image="G_L2_U4_11(1)-A2" answer="false" />
+        <option image="G_L2_U4_11(1)-A3" answer="false" />
+        <option image="G_L2_U4_11(1)-A4" answer="false" />
+        <option image="G_L2_U4_11(1)-A5" answer="correct" />
+        <option image="G_L2_U4_11(1)-A6" answer="false" />
+        <option image="G_L2_U4_11(1)-A7" answer="false" />
+        <option image="G_L2_U4_11(1)-A8" answer="false" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="MCQ" narrationFile="G_L2_U4_11">
+    <page>
+      <question image="G_L2_U4_11(7)-Q">
+        <option image="G_L2_U4_11(1)-A1" answer="false" />
+        <option image="G_L2_U4_11(1)-A2" answer="false" />
+        <option image="G_L2_U4_11(1)-A3" answer="false" />
+        <option image="G_L2_U4_11(1)-A4" answer="correct" />
+        <option image="G_L2_U4_11(1)-A5" answer="false" />
+        <option image="G_L2_U4_11(1)-A6" answer="false" />
+        <option image="G_L2_U4_11(1)-A7" answer="false" />
+        <option image="G_L2_U4_11(1)-A8" answer="false" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="MCQ" narrationFile="G_L2_U4_11">
+    <page>
+      <question image="G_L2_U4_11(8)-Q">
+        <option image="G_L2_U4_11(1)-A1" answer="false" />
+        <option image="G_L2_U4_11(1)-A2" answer="false" />
+        <option image="G_L2_U4_11(1)-A3" answer="false" />
+        <option image="G_L2_U4_11(1)-A4" answer="false" />
+        <option image="G_L2_U4_11(1)-A5" answer="false" />
+        <option image="G_L2_U4_11(1)-A6" answer="correct" />
+        <option image="G_L2_U4_11(1)-A7" answer="false" />
+        <option image="G_L2_U4_11(1)-A8" answer="false" />
+      </question>
+    </page>
+  </lesson>
+</lessons>
